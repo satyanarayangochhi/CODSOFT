@@ -1,4 +1,4 @@
-/*TASK1- NUmber Game
+/* TASK1- NUmber Game
  * Author - Satya Narayan Gochhi
  * NumberGame
  */
