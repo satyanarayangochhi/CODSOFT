@@ -1,6 +1,5 @@
 /* TASK1- NUmber Game
  * Author - Satya Narayan Gochhi
- * NumberGame
  */
 
  import java.util.*;

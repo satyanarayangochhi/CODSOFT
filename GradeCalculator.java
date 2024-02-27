@@ -1,6 +1,5 @@
 /* TASK2- Grade Calculator
  * Author - Satya Narayan Gochhi
- * NumberGame
  */
 
 import java.util.*;
